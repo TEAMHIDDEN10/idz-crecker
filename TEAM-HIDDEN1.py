@@ -1,9 +1,3 @@
-#opensource_by_qaiser
-#thanks_irfan_github
-#my_github_https://github.com/TechQaiser
-#wp:03079321417
-
-
 W = '\033[97;1m' 
 R = '\033[91;1m' 
 G = '\033[92;1m' 
@@ -49,10 +43,10 @@ logo = """\033[1;92m  ____  _   _    _    _   _ _____ ___
                                                                                      
 
 \033[1;90m════════════════════════════════════════════════
-\033[1;91m [\033[1;94m✯\033[1;91m] \033[1;92mFACEBOOK : ARIF CHOWDHURY  
-\033[1;91m [\033[1;94m✯\033[1;91m] \033[1;92mFB PAGE : 𝐀𝐑𝐈𝐅 𝐕𝐀𝐔 ツ
-\033[1;91m [\033[1;94m✯\033[1;91m] \033[1;92mGITHUB   : arifTEAM HIDDEN420
-\033[1;91m [\033[1;94m✯\033[1;91m] \033[1;92mVERSION  : 3.4.3
+\033[1;91m [\033[1;94m✯\033[1;91m] \033[1;92mFACEBOOK : MR. hIDDEN 
+\033[1;91m [\033[1;94m✯\033[1;91m] \033[1;92mFB PAGE : TEAM HIDDEN
+\033[1;91m [\033[1;94m✯\033[1;91m] \033[1;92mGITHUB   : TEAMHIDDEN10
+\033[1;91m [\033[1;94m✯\033[1;91m] \033[1;92mVERSION  : 1.1.0
 \033[1;90m════════════════════════════════════════════════
     """
 
@@ -92,14 +86,6 @@ class Main:
 			print("\033[1;32m Done ")
 			time.sleep(2.0)
 			os.system("clear")
-		print(logo)
-class Main:
-	def __init__(self):
-		self.id = []
-		self.ok = []
-		self.cp = []
-		self.loop = 0
-		os.system("clear")
 		print(logo)
 		print(' \033[1;95mDont Decode My Tools \033[0m')
 		print(' \033[1;95mThis Tool Clone Old Random Account \033[0m')
